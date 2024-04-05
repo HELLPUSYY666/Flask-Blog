@@ -13,7 +13,7 @@
 ## Установка
 
 1. Клонировать репозиторий:
-git clone https://github.com/your_username/flask-blog.git
+[git clone https://github.com/your_username/flask-blog.git](https://github.com/HELLPUSYY666/Flask-Blog/blob/main/README.md)
 
 2. Перейти в директорию проекта:
 cd flask-blog
